@@ -7,10 +7,7 @@
 📘 Ciências da Computação na Faculdade Unimetrocamp. 
 </br>
 <br>
-🖥️ Estagiária da empresa <a href="http://www.nccgroup.com.br" target="_blank">NCC Group Brasil</a> como Analista Desenvolvedora Fluig.
-</br>
-<br>
-</br>
+
 
 <h3> Minhas Tecnologias 🚀: </h3>
 
